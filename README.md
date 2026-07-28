@@ -1,24 +1,178 @@
 <h1 align="center">Hi 👋, I'm Mohammad Faysal Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fk-mfk" alt="fk-mfk" /></a> </p>
+<h3 align="center">Technical Product Manager | AI Product | Enterprise SaaS | Software Engineering</h3>
 
-- 🔭 I’m currently working on **Early detection of dental carries**
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **ReactJS,HTML5,CSS,FIREBASE,FLASK,JAVASCRIPT**
-
-- 📫 How to reach me **mfk8776@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-khan-40aa1521b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-khan-40aa1521b" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/fk-mfk">
+    <img src="https://komarev.com/ghpvc/?username=fk-mfk&label=Profile%20Views&color=0e75b6&style=flat" alt="fk-mfk" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fk-mfk&show_icons=true&locale=en&layout=compact" alt="fk-mfk" /></p>
+### 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fk-mfk&" alt="fk-mfk" /></p>
+I'm a **Technical Product professional with a software engineering background**, working at the intersection of **product strategy, enterprise SaaS, AI, and engineering**.
+
+My experience spans the full product development lifecycle — from understanding customer and business problems to defining requirements, designing workflows, collaborating with engineering teams, and delivering technology-driven solutions.
+
+* 🔭 Currently working on **enterprise SaaS products and AI-driven solution concepts**
+* 🧠 Exploring **AI Product Management, Technical Product Management, and Applied AI**
+* 💡 Interested in **Enterprise AI, AI-powered workflows, Developer Platforms, and Product Strategy**
+* 🛠️ Background across **Frontend → Backend → AI/ML → Product Management**
+* 🏆 **Winner — Smart India Hackathon 2023**
+* 🔬 Worked on an **AI-powered dental disease detection platform** in collaboration with **AIIMS Nagpur**
+* 📊 Experienced in translating complex technical and business problems into **product requirements and actionable solutions**
+* 📫 Reach me at **[mfk8776@gmail.com](mailto:mfk8776@gmail.com)**
+
+---
+
+### 🚀 What I Work On
+
+**Product & Strategy**
+
+* Product Discovery
+* Product Requirements & User Stories
+* Stakeholder Management
+* Roadmap & Feature Prioritization
+* Agile / Scrum
+* Enterprise SaaS
+* Customer & Business Problem Analysis
+
+**Technical Product**
+
+* APIs & Integrations
+* System Workflows
+* Frontend & Backend Architecture
+* Cloud Platforms
+* Technical Feasibility & Trade-offs
+* Engineering Collaboration
+
+**AI & Applied Technology**
+
+* AI Product Development
+* Machine Learning
+* Computer Vision
+* AI Solution Prototyping
+* AI/ML Evaluation
+* Applied AI Workflows
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/faysal-khan-40aa1521b" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:mfk8776@gmail.com" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🧰 Languages & Technologies
+
+<p align="left">
+
+<a href="https://angular.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 📌 Featured Areas
+
+🔹 **Technical Product Management**
+🔹 **Enterprise SaaS & Workflow Products**
+🔹 **AI Product Development**
+🔹 **Applied AI & Machine Learning**
+🔹 **Full-Stack Engineering**
+🔹 **Product Discovery & Technical Strategy**
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fk-mfk&show_icons=true&locale=en" alt="fk-mfk" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fk-mfk&show_icons=true&locale=en&layout=compact" alt="fk-mfk" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fk-mfk" alt="fk-mfk" />
+</p>
