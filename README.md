@@ -283,28 +283,6 @@ Judged **5+ hackathons**, evaluating technical solutions, innovation, feasibilit
 
 ---
 
-## 📊 GitHub Activity
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=fk-mfk&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<br>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fk-mfk&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<br>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fk-mfk" alt="GitHub Streak" />
-</p>
-
-<br>
-
----
-
 <p align="center">
   <i>Building products where technology, AI, and real-world problems meet.</i>
 </p>
