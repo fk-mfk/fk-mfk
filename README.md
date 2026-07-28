@@ -1,178 +1,310 @@
-<h1 align="center">Hi 👋, I'm Mohammad Faysal Khan</h1>
+# Hi 👋, I'm Mohammad Faysal Khan
 
-<h3 align="center">Technical Product Manager | AI Product | Enterprise SaaS | Software Engineering</h3>
+### Technical Product Manager | AI Product | Enterprise SaaS | Software Engineering
 
 <p align="center">
   <a href="https://github.com/fk-mfk">
-    <img src="https://komarev.com/ghpvc/?username=fk-mfk&label=Profile%20Views&color=0e75b6&style=flat" alt="fk-mfk" />
+    <img src="https://komarev.com/ghpvc/?username=fk-mfk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
+<p align="center">
+  <b>Building at the intersection of Product, Engineering, Enterprise SaaS, and Applied AI.</b>
+</p>
+
 ---
 
-### 👋 About Me
+## 👋 About Me
 
 I'm a **Technical Product professional with a software engineering background**, working at the intersection of **product strategy, enterprise SaaS, AI, and engineering**.
 
-My experience spans the full product development lifecycle — from understanding customer and business problems to defining requirements, designing workflows, collaborating with engineering teams, and delivering technology-driven solutions.
+My journey has taken me across the full product and technology lifecycle - from **frontend and backend engineering**, to **AI/ML applications**, and now into **technical product management and enterprise solution development**.
 
-* 🔭 Currently working on **enterprise SaaS products and AI-driven solution concepts**
-* 🧠 Exploring **AI Product Management, Technical Product Management, and Applied AI**
-* 💡 Interested in **Enterprise AI, AI-powered workflows, Developer Platforms, and Product Strategy**
-* 🛠️ Background across **Frontend → Backend → AI/ML → Product Management**
-* 🏆 **Winner — Smart India Hackathon 2023**
-* 🔬 Worked on an **AI-powered dental disease detection platform** in collaboration with **AIIMS Nagpur**
-* 📊 Experienced in translating complex technical and business problems into **product requirements and actionable solutions**
-* 📫 Reach me at **[mfk8776@gmail.com](mailto:mfk8776@gmail.com)**
+I enjoy understanding complex problems, breaking them into practical workflows, working with engineering teams, and turning business requirements into products and technology solutions.
+
+<br>
+
+### 💼 What I Do
+
+* 🚀 Work on **enterprise SaaS products and product workflows**
+* 🧩 Translate **business and customer problems into product requirements**
+* 🤝 Collaborate with **Product, Engineering, QA, Architecture, Sales, and stakeholders**
+* 🧠 Explore and prototype **AI-powered solutions for enterprise use cases**
+* ⚙️ Bring hands-on understanding of **frontend, backend, APIs, cloud, and AI/ML**
+* 📊 Work across **product discovery, requirements, prioritization, and delivery**
+* 🔬 Build and explore **applied AI and machine learning solutions**
+
+<br>
 
 ---
 
-### 🚀 What I Work On
+## 🧭 My Journey
 
-**Product & Strategy**
+### Software Engineering
+
+Frontend → Backend → APIs → Cloud
+
+⬇️
+
+### AI & Machine Learning
+
+Computer Vision → ML Models → AI Applications → Applied AI
+
+⬇️
+
+### Enterprise SaaS
+
+Enterprise Workflows → Customer Problems → Product Delivery
+
+⬇️
+
+### Technical Product Management
+
+Product Discovery → Requirements → Prioritization → AI Solutions → Delivery
+
+<br>
+
+---
+
+## 🤖 AI & Machine Learning Experience
+
+My experience with AI goes beyond simply using AI tools.
+
+I've worked across **applied AI, machine learning, computer vision, and AI-powered product concepts**, with experience understanding both the **technical implementation** and the **product and business problem** behind the solution.
+
+### Areas of Experience
+
+* 🧠 Applied Artificial Intelligence
+* 🤖 Machine Learning
+* 👁️ Computer Vision
+* 🖼️ Image Classification and Object Detection
+* 📊 Dataset Preparation and Model Evaluation
+* 🔬 AI/ML Research and Experimentation
+* ⚙️ AI Solution Prototyping
+* 🏢 AI for Enterprise Workflows
+* 🧩 AI Product Thinking
+* 🔗 AI and API Integrations
+
+### Featured AI Work
+
+#### TeethFirst - AI-Powered Dental Disease Detection
+
+Worked on an AI-powered healthcare platform for early dental disease detection in collaboration with **AIIMS Nagpur**.
+
+* Processed and prepared **10,000+ annotated dental images**
+* Worked with **Fast R-CNN-based object detection**
+* Achieved **90%+ detection accuracy**
+* Built the supporting application using **Python, Flask, Firebase, and AWS**
+* Contributed to research and the development of a healthcare-facing application
+
+<br>
+
+### Enterprise AI & Product Work
+
+In my current product role, I have also been involved in **multiple AI solution POCs**, working from business problems and customer requirements toward practical technology solutions.
+
+My work involves understanding:
+
+* The actual business problem
+* User and customer workflows
+* Where AI can create measurable value
+* Technical feasibility and integrations
+* Product requirements and solution workflows
+* Trade-offs between automation, accuracy, usability, and implementation complexity
+
+I have contributed to **8 AI solution POCs**, with **3 progressing into delivered solutions**, working across product thinking, technical feasibility, stakeholder discussions, and solution definition.
+
+<br>
+
+---
+
+## 🧑‍💻 Technical Product Management
+
+My technical background allows me to work comfortably between **business, product, and engineering teams**.
+
+### Product
 
 * Product Discovery
-* Product Requirements & User Stories
+* Product Strategy
+* Requirements Gathering
+* PRDs and User Stories
+* Feature Prioritization
+* Roadmap Planning
 * Stakeholder Management
-* Roadmap & Feature Prioritization
-* Agile / Scrum
-* Enterprise SaaS
-* Customer & Business Problem Analysis
+* Customer Problem Analysis
+* Agile and Scrum
+* Cross-functional Collaboration
+* Product Delivery
 
-**Technical Product**
+### Technical Product
 
-* APIs & Integrations
+* API Design and Integrations
+* REST APIs
 * System Workflows
-* Frontend & Backend Architecture
-* Cloud Platforms
-* Technical Feasibility & Trade-offs
-* Engineering Collaboration
+* Technical Feasibility
+* Software Architecture
+* Frontend and Backend Systems
+* Cloud Infrastructure
+* AI/ML Integration
+* Engineering Trade-offs
+* Enterprise SaaS Workflows
 
-**AI & Applied Technology**
-
-* AI Product Development
-* Machine Learning
-* Computer Vision
-* AI Solution Prototyping
-* AI/ML Evaluation
-* Applied AI Workflows
+<br>
 
 ---
 
-### 🔗 Connect With Me
+## 🛠️ Technologies
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+<br>
+
+### Backend and APIs
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+
+<br>
+
+### AI and Machine Learning
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+
+<br>
+
+### Cloud and Data
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS"/>
+&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</p>
+
+<br>
+
+### Engineering and Development
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+<br>
+
+---
+
+## 🏆 Achievements
+
+### 🥇 Smart India Hackathon 2023 - Winner
+
+Winner of **Smart India Hackathon 2023**, working on a technology-driven solution to solve a real-world problem.
+
+### 🥈 Prometeo '23 HackOverflow - Runner-Up
+
+Recognized among leading teams at **IIT Jodhpur's Prometeo HackOverflow**.
+
+### 🎓 Smart India Hackathon 2024
+
+Served as a **Mentor for Smart India Hackathon 2024**, supporting participating teams.
+
+### 🧑‍⚖️ Hackathon Judge
+
+Judged **5+ hackathons**, evaluating technical solutions, innovation, feasibility, and problem-solving approaches.
+
+<br>
+
+---
+
+## 📜 Certifications
+
+* AWS Certified Cloud Practitioner
+* AWS Certified AI Practitioner
+* Meta Front-End Developer Professional Certificate
+
+<br>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/faysal-khan-40aa1521b" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
-<a href="mailto:mfk8776@gmail.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" height="30" width="40" />
+
+  
+
+<a href="mailto:mfk8776@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" height="30" width="40"/>
 </a>
+
 </p>
+
+<br>
 
 ---
 
-### 🧰 Languages & Technologies
+## 📊 GitHub Activity
 
-<p align="left">
-
-<a href="https://angular.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-</a>
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=fk-mfk&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+<br>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fk-mfk&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<br>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fk-mfk" alt="GitHub Streak" />
+</p>
+
+<br>
 
 ---
 
-### 📌 Featured Areas
-
-🔹 **Technical Product Management**
-🔹 **Enterprise SaaS & Workflow Products**
-🔹 **AI Product Development**
-🔹 **Applied AI & Machine Learning**
-🔹 **Full-Stack Engineering**
-🔹 **Product Discovery & Technical Strategy**
-
----
-
-### 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fk-mfk&show_icons=true&locale=en" alt="fk-mfk" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fk-mfk&show_icons=true&locale=en&layout=compact" alt="fk-mfk" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fk-mfk" alt="fk-mfk" />
+<p align="center">
+  <i>Building products where technology, AI, and real-world problems meet.</i>
 </p>
